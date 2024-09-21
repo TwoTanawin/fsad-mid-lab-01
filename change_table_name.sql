@@ -1,0 +1,1 @@
+ALTER TABLE cookbook RENAME TO cookbook;
